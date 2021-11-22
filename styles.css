@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(217, 220, 228);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5px;
+    font-size: 18px;
+    margin: 8px;
+    background: url(https://instapik.ru/wp-content/uploads/2021/03/myatyy-list-bumagi-335x220.jpg);
+}
+
+.card-title{
+            font-size: 20px;
+            text-align: center;
+            font-family:Georgia, serif;
+            font-style: italic;
+}
+
+
+.card-photo{  
+
+           width: 200px;
+           height: 200px;
+           display: block;
+           margin: 0 auto;
+           padding: 20px;
+           border-radius: 50%;
+        }  
+ .card-text{ 
+           text-align: center; }  
+ .card-subtitle{
+           font-size: 18px;
+           text-align: left;
+           color: rgb(5, 44, 83);
+} 
+.contankt { 
+           text-align: left;
+           font-size: 18px;
+           color: rgb(5, 44, 83);} 
+.work {    
+           font-size: 18px;
+           text-align: left;
+           color: rgb(5, 44, 83);}  
+.hobi { 
+           font-size:18px;
+           color: rgb(5, 44, 83);
+           text-align: left;
+        }
+ .social { font-size:18px;
+            color: rgb(5, 44, 83);
+            text-align: left;}
+.inst {text-align: left;}
